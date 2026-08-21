@@ -1,5 +1,4 @@
-git add .
-git commit -m "
+
 import React, { useMemo, useState } from "react";
 import { Building2, CalendarDays, CheckCircle2, ChevronRight, Clock3, HeartPulse, Plus, Save, Settings2, Sparkles, Trash2, Users, AlertTriangle, Download } from "lucide-react";
 
@@ -328,5 +327,4 @@ function App() {
   </div>;
 }
 
-export default App;"
-git push
+export default App;
